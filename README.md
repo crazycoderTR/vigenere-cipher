@@ -1,7 +1,7 @@
 # Vigenere Cipher
 ## Encryption and Decryption with vigenere cipher
 
-![nodejs](https://image3.slideserve.com/7023125/slide1-n.jpg)
+![vigenerecipher](https://image3.slideserve.com/7023125/slide1-n.jpg)
 <br><br>
 # Installation
 <br>
